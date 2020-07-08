@@ -10,7 +10,10 @@ The generator requires 4 parameters :
 - Number of neighbours : all end nodes have the same number of neighbour nodes. The number of neighbours must be greater or equal to 1.
 
 Examples of the instance types :
+Type 0:
 ![alt text](https://github.com/MagYou/ICPC_Challenge/blob/master/Type0.jpg?raw=true)
+Type 1:
+![alt text](https://github.com/MagYou/ICPC_Challenge/blob/master/Type1.jpg?raw=true)
 
 The python code can be launch from a terminal as follows
 

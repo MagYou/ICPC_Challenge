@@ -11,11 +11,12 @@ The generator requires 4 parameters :
 
 Examples of the instance types :
 Type 0:
-![alt text](https://github.com/MagYou/ICPC_Challenge/blob/master/Type0.jpg?raw=true)
-Type 1:
-![alt text](https://github.com/MagYou/ICPC_Challenge/blob/master/Type1.jpg?raw=true)
 <p align="center">
-  <img src="Type1.jpg" width="100" alt="Type1">
+  <img src="Type0.jpg" width="500" alt="Type0">
+</p>
+Type 1:
+<p align="center">
+  <img src="Type1.jpg" width="500" alt="Type1">
 </p>
    
 The python code can be launch from a terminal as follows

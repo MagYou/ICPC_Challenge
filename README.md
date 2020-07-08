@@ -37,7 +37,8 @@ Example
 | Content Cell  | Content Cell  |
 
 128 instances are already generated: 
-
+ 
+  
 |	  Type0_10_5_3	|	  Type0_30_20_4		|	  Type1_20_15_5		|
 |	  Type0_10_5_4	|	  Type0_30_20_5		|	  Type1_20_15_6		|
 |	  Type0_10_5_5	|	  Type0_30_20_6		|	  Type1_20_20_3		|

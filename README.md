@@ -15,7 +15,7 @@ Type 0:
 Type 1:
 ![alt text](https://github.com/MagYou/ICPC_Challenge/blob/master/Type1.jpg?raw=true)
 <p align="center">
-  <img src="Type1" width="100" alt="accessibility text">
+  <img src="Type1.jpg" width="100" alt="Type1">
 </p>
    
 The python code can be launch from a terminal as follows

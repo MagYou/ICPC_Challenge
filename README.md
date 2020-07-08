@@ -15,6 +15,9 @@ Type 0:
 Type 1:
 ![alt text](https://github.com/MagYou/ICPC_Challenge/blob/master/Type1.jpg?raw=true)
 
+.. image:: Type1.jpg
+   :scale: 10 %
+   
 The python code can be launch from a terminal as follows
 
     mkdir InstanceName

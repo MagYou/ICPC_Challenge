@@ -12,7 +12,7 @@ The generator requires 4 parameters :
 Examples of the instance types :
 Type 0:
 <p align="center">
-  <img src="Type0.jpg" width="500" alt="Type0">
+  <img src="Type0.jpg" alt="Type0">
 </p>
 Type 1:
 <p align="center">
@@ -31,7 +31,7 @@ Example
   
   
 128 instances are already generated: 
-  Type0_10_5_3
+  -Type0_10_5_3
   Type0_10_5_4
   Type0_10_5_5
   Type0_10_5_6

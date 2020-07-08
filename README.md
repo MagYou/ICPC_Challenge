@@ -30,7 +30,7 @@ Example
     mkdir InstanceName
     python InstanceGenerator.py Type0 10 5 3 nameInstance
 
-128 instances are already generated: 
+128 instances are already generated (The name format is Type_NumberEndNodes_NumberTunnels_NumberNeighbours): 
  
   
 |   |  | |

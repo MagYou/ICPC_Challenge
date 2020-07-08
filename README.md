@@ -5,9 +5,12 @@ This repository contains an instance generator in Python. A shell script can be 
 The generator requires 4 parameters :
 
 - Type of the instance : two network topologies are generated "Type0" or "Type1"
-- Number of end nodes : the end points represents the source or a destination of a path. The number of end points must be greater or equal to 2
+- Number of end nodes : the end points represent the source or a destination of a path. The number of end points must be greater or equal to 2
 - Number of tunnels : a tunnel represents a communication between two end nodes. The number of tunnels must be greater or equal to 1
 - Number of neighbours : all end nodes have the same number of neighbour nodes. The number of neighbours must be greater or equal to 1.
+
+Examples of the instance types :
+![alt text](https://github.com/MagYou/ICPC_Challenge/blob/master/Type0.jpg?raw=true)
 
 The python code can be launch from a terminal as follows
 

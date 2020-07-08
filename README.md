@@ -31,6 +31,11 @@ Example
     python InstanceGenerator.py Type0 10 5 3 nameInstance
   
   
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 128 instances are already generated: 
 
 |	  Type0_10_5_3	|	  Type0_30_20_4		|	  Type1_20_15_5		|

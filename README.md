@@ -10,6 +10,7 @@ The generator requires 4 parameters :
 - Number of neighbours : all end nodes have the same number of neighbour nodes. The number of neighbours must be greater or equal to 1.
 
 Examples of the instance types :
+
 Type 0:
 <p align="center">
   <img src="Type0.jpg" alt="Type0">
@@ -31,8 +32,10 @@ Example
   
   
 128 instances are already generated: 
-  -Type0_10_5_3
+  Type0_10_5_3
+  
   Type0_10_5_4
+  
   Type0_10_5_5
   Type0_10_5_6
   Type0_10_10_3

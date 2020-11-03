@@ -19,6 +19,9 @@ Each instance contains 3 csv files :
 	* links: if of the links in the path. Links are separated by "|"
 
 The following table gives the optumal MLU for provisional instances : 
+
+|   |  |
+| ------------- | ------------- |
 |Instance|Optimal MLU|
 |Instance_0|0.639732|
 |Instance_2|0.78932|
@@ -38,6 +41,8 @@ The following table gives the optumal MLU for provisional instances :
   
 
 The following table gives the optumal MLU for final instances : 
+|   |  |
+| ------------- | ------------- |
 |Instance|Optimal MLU|
 |Instance_1|0.145047|
 |Instance_3|0.343488|

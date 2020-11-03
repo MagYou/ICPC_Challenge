@@ -16,7 +16,7 @@ Each instance contains 3 csv files :
 	* bandwidth: size of data (mb/s) to be sent from "src" to "dst". 
 - paths.csv : this file defines all possible paths for each tunnel (source, destination, sending data rate). Each line represents a path. It is composed of 2 columns :
 	* tunnelId: id of the tunnel (between 0 and (number of tunnels -1))
-	* links: if of the links in the path. Links are separated by "|"
+	* links: LinkId of all links in the path. Links are separated by "|"
 
 The following table gives the optimal MLU for provisional instances : 
 

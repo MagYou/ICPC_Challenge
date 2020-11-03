@@ -1,6 +1,6 @@
 # ICPC_Challenge
 
-This repository contains two set of instances : Provional (15 instances) and Final (50 instances). 
+This repository contains two sets of instances: Provisional (15 instances) and Final (50 instances). 
 
 Each instance contains 3 csv files :
 
@@ -8,17 +8,17 @@ Each instance contains 3 csv files :
 	* LinkID: id of the link (from 0 to (number of links -1))
 	* src: id of the first node of the link (between 0 and (number of nodes -1))
 	* dst: id of the second node of the link (between 0 and (number of nodes -1))
-	* cap: capacity of the link in mb/s
+	* cap: the capacity of the link in mb/s
 - tunnel.csv : this file defines all sending data rates, from source agents to destination agents. It is composed of 4 columns : 
 	* tunnelID: id of the tunnel (from 0 to (number of tunnels -1))
 	* src: id of the source agent node (between 0 and (number of nodes -1))
 	* dst: id of the destination agent node (between 0 and (number of nodes -1))
 	* bandwidth: size of data (mb/s) to be sent from "src" to "dst". 
-- paths.csv : this file defines all possible paths for each tunnel (source, destination, sending data rate). Each line represent a path. It is composed of 2 columns :
+- paths.csv : this file defines all possible paths for each tunnel (source, destination, sending data rate). Each line represents a path. It is composed of 2 columns :
 	* tunnelId: id of the tunnel (between 0 and (number of tunnels -1))
 	* links: if of the links in the path. Links are separated by "|"
 
-The following table gives the optumal MLU for provisional instances : 
+The following table gives the optimal MLU for provisional instances : 
 
 |   |  |
 | ------------- | ------------- |

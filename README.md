@@ -18,7 +18,9 @@ Each instance contains 3 csv files :
 	* tunnelId: id of the tunnel (between 0 and (number of tunnels -1))
 	* links: LinkId of all links in the path. Links are separated by "|"
 
-The following table gives the optimal MLU for provisional instances : 
+There is at most 20 agents per instance. However, each agent may have several tunnels (communicating with multiple other agents). Also, every tunnel may have several paths (multiple paths for a pair of agents). All instances are feasible with a maximum link utilization (mlu) lower than 1.0. 
+
+The following table gives the optimal MLU for all provisional instances : 
 
 |   |  |
 | ------------- | ------------- |
@@ -40,7 +42,7 @@ The following table gives the optimal MLU for provisional instances :
 |Instance_146|0.0801836|
   
 
-The following table gives the optumal MLU for final instances : 
+The following table gives the optumal MLU for all final instances : 
 |   |  |
 | ------------- | ------------- |
 |Instance|Optimal MLU|
